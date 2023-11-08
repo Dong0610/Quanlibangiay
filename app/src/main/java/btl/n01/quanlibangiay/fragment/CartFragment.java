@@ -81,7 +81,6 @@ public class CartFragment extends BaseFragment<FragmentCartBinding> {
             public void onUpdateCount(int count, String id) {
 
             }
-
             @Override
             public void onSelect(String idProduct) {
                 viewDetails(idProduct);
