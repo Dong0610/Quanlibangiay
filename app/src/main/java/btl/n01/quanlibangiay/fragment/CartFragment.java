@@ -99,6 +99,7 @@ public class CartFragment extends BaseFragment<FragmentCartBinding> {
 
     }
 
+
     private ArrayList<Cart> listProductBuy = new ArrayList<>();
 
     private void confirmPayment() {
