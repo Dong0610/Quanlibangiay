@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ECommerce" parent="Base.Theme.ECommerce">
+        <!-- Customize the status bar color -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Customize the status bar text color -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

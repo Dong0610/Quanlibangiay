@@ -1,0 +1,18 @@
+{
+    "logs": [
+        {
+            "outputFile": "btl.n01.quanlibangiay.app-mergeDebugResources-35:/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/909f26fa19c8cde6f6f3988529fe4cb9/transformed/play-services-basement-18.1.0/res/values-kk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+  

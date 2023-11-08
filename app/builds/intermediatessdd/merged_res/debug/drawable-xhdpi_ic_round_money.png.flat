@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="@dimen/_3sdp"
+    android:background="@drawable/bg_edt_account_dis"
+    android:orientation="horizontal"
+    tools:ignore="MissingDefaultResource">
+
+    <btl.n01.quanlibangiay.lib.view.CheckBoxImageView
+        android:padding="@dimen/_3sdp"
+        app:checked_img="@drawable/ic_check_true"
+        app:default_img="@drawable/ic_check_false"
+        app:checked="false"
+        android:id="@+id/checkbox_buy"
+        android:layout_width="@dimen/_18sdp"
+        android:layou

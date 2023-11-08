@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "btl.n01.quanlibangiay.app-mergeDebugResources-35:/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/531c448d23437723c2186c45a64c8de1/transformed/core-1.9.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "10413",
+                        "endColumns": "100",
+                        "endOffsets": "10509"
+                    }
+                },
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/08c0cbbe24fb0909c07a3177b21bd964/transformed/material-1.8.0/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2,6,7,8,9,

@@ -1,0 +1,11 @@
+{
+    "logs": [
+        {
+            "outputFile": "btl.n01.quanlibangiay.app-mergeDebugResources-35:/values-it/values-it.xml",
+            "map": [
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/ee1494d104dbf013cb560e8ca4aef5e1/transformed/appcompat-1.6.1/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,313,422,506,611,730,808,883,975,1069,1162,1256,1357,1451,1548,1643,1735,1827,1908,20

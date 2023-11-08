@@ -1,0 +1,179 @@
+{
+    "logs": [
+        {
+            "outputFile": "btl.n01.quanlibangiay.app-mergeDebugResources-35:/values-si/values-si.xml",
+            "map": [
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/ee1494d104dbf013cb560e8ca4aef5e1/transformed/appcompat-1.6.1/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,221,328,435,518,623,739,829,915,1006,1099,1193,1287,1387,1480,1575,1669,1760,1851,1935,2044,2148,2246,2356,2456,2563,2722,2821",
+                        "endColumns": "115,106,106,82,104,115,89,85,90,92,93,93,99,92,94,93,90,90,83,108,103,97,109,99,106,158,98,81",
+                        "endOffsets": "216,323,430,513,618,734,824,910,1001,1094,1188,1282,1382,1475,1570,1664,1755,1846,1930,2039,2143,2241,2351,2451,2558,2717,2816,2898"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,113",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "319,435,542,649,732,837,953,1043,1129,1220,1313,1407,1501,1601,1694,1789,1883,1974,2065,2149,2258,2362,2460,2570,2670,2777,2936,10072",
+                        "endColumns": "115,106,106,82,104,115,89,85,90,92,93,93,99,92,94,93,90,90,83,108,103,97,109,99,106,158,98,81",
+                        "endOffsets": "430,537,644,727,832,948,1038,1124,1215,1308,1402,1496,1596,1689,1784,1878,1969,2060,2144,2253,2357,2455,2565,2665,2772,2931,3030,10149"
+                    }
+                },
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/531c448d23437723c2186c45a64c8de1/transformed/core-1.9.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "10154",
+                        "endColumns": "100",
+                        "endOffsets": "10250"
+                    }
+                },
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/297b29f3f0580f2a791ffe7a250a3f9f/transformed/play-services-base-18.1.0/res/values-si/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,297,447,567,676,814,934,1046,1140,1287,1398,1550,1677,1817,1974,2043,2100",
+                        "endColumns": "103,149,119,108,137,119,111,93,146,110,151,126,139,156,68,56,75",
+                        "endOffsets": "296,446,566,675,813,933,1045,1139,1286,1397,1549,1676,1816,1973,2042,2099,2175"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,50,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3742,3850,4004,4128,4241,4383,4507,4623,4860,5011,5126,5282,5413,5557,5718,5791,5852",
+                        "endColumns": "107,153,123,112,141,123,115,97,150,114,155,130,143,160,72,60,79",
+                        "endOffsets": "3845,3999,4123,4236,4378,4502,4618,4716,5006,5121,5277,5408,5552,5713,5786,5847,5927"
+                    }
+                },
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/08c0cbbe24fb0909c07a3177b21bd964/transformed/material-1.8.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,269,345,422,500,591,676,778,893,976,1040,1129,1196,1256,1350,1414,1477,1533,1603,1670,1725,1844,1901,1965,2019,2092,2214,2297,2382,2514,2592,2672,2758,2818,2870,2936,3006,3079,3161,3233,3310,3382,3452,3545,3618,3708,3801,3875,3947,4038,4092,4158,4242,4327,4389,4453,4516,4621,4721,4816,4916,4980,5036",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
+                        "endColumns": "12,75,76,77,90,84,101,114,82,63,88,66,59,93,63,62,55,69,66,54,118,56,63,53,72,121,82,84,131,77,79,85,59,51,65,69,72,81,71,76,71,69,92,72,89,92,73,71,90,53,65,83,84,61,63,62,104,99,94,99,63,55,79",
+                        "endOffsets": "264,340,417,495,586,671,773,888,971,1035,1124,1191,1251,1345,1409,1472,1528,1598,1665,1720,1839,1896,1960,2014,2087,2209,2292,2377,2509,2587,2667,2753,2813,2865,2931,3001,3074,3156,3228,3305,3377,3447,3540,3613,3703,3796,3870,3942,4033,4087,4153,4237,4322,4384,4448,4511,4616,4716,4811,4911,4975,5031,5111"
+                    },
+                    "to": {
+                        "startLines": "2,33,34,35,36,37,38,39,40,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,3035,3111,3188,3266,3357,3442,3544,3659,5932,5996,6085,6152,6212,6306,6370,6433,6489,6559,6626,6681,6800,6857,6921,6975,7048,7170,7253,7338,7470,7548,7628,7714,7774,7826,7892,7962,8035,8117,8189,8266,8338,8408,8501,8574,8664,8757,8831,8903,8994,9048,9114,9198,9283,9345,9409,9472,9577,9677,9772,9872,9936,9992",
+                        "endLines": "5,33,34,35,36,37,38,39,40,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112",
+                        "endColumns": "12,75,76,77,90,84,101,114,82,63,88,66,59,93,63,62,55,69,66,54,118,56,63,53,72,121,82,84,131,77,79,85,59,51,65,69,72,81,71,76,71,69,92,72,89,92,73,71,90,53,65,83,84,61,63,62,104,99,94,99,63,55,79",
+                        "endOffsets": "314,3106,3183,3261,3352,3437,3539,3654,3737,5991,6080,6147,6207,6301,6365,6428,6484,6554,6621,6676,6795,6852,6916,6970,7043,7165,7248,7333,7465,7543,7623,7709,7769,7821,7887,7957,8030,8112,8184,8261,8333,8403,8496,8569,8659,8752,8826,8898,8989,9043,9109,9193,9278,9340,9404,9467,9572,9672,9767,9867,9931,9987,10067"
+                    }
+                },
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/909f26fa19c8cde6f6f3988529fe4cb9/transformed/play-services-basement-18.1.0/res/values-si/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "134",
+                        "endOffsets": "329"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4721",
+                        "endColumns": "138",
+                        "endOffsets": "4855"
+                    }
+                }
+            ]
+        }
+    ]
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ayout_constraintStart_toStartOfparent"∂="V
+*http://schemas.android.com/apk/res/android
+fontFamily@font/worksans_medium"∂="L
+*http://schemas.android.com/apk/res/androidtextSize@dimen/_13sdp"∂="P
+*http://schemas.android.com/apk/res/android	textColor@color/textcolor"∂="\
+'http://schemas.android.com/apk/res-auto"layout_constraintBottom_toBottomOfparent"∂="V
+*http://schemas.android.com/apk/res/androidlayout_marginStart@dimen/_12sdp"∂="L
+*http://schemas.android.com/apk/res/androidtext@string/introduce"∂=∂=*ù	
+ì	TextView"T
+*http://schemas.android.com/apk/res/androidlayout_marginEnd@dimen/_12sdp"∆="O
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"∆="P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"∆="L
+*http://schemas.android.com/apk/res/androidtextSize@dimen/_13sdp"∆="G
+*http://schemas.android.com/apk/res/android	textColor#9098B1"∆="`
+'http://schemas.android.com/apk/res-autolayout_constraintStart_toEndOf@+id/textView3"∆="\
+'http://schemas.android.com/apk/res-auto"layout_constraintBottom_toBottomOfparent"∆="V
+*http://schemas.android.com/apk/res/androidlayout_marginStart@dimen/_12sdp"∆="C
+*http://schemas.android.com/apk/res/androidgravitystart"∆="V
+'http://schemas.android.com/apk/res-autolayout_constraintTop_toTopOfparent"∆="V
+*http://schemas.android.com/apk/res/android
+fontFamily@font/worksans_medium"∆="V
+'http://schemas.android.com/apk/res-autolayout_constraintEnd_toEndOfparent"∆="K
+*http://schemas.android.com/apk/res/androidid@+id/txt_introduce"∆="E
+*http://schemas.android.com/apk/res/androidtext
+CD0113-400"∆=∆=*ã
+Å1androidx.constraintlayout.widget.ConstraintLayout"Q
+*http://schemas.android.com/apk/res/androidlayout_margin@dimen/_12sdp"Õ2"O
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"Õ2"P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"Õ2"L
+*http://schemas.android.com/apk/res/androidorientation
+horizontal"Õ2"E
+*http://schemas.android.com/apk/res/androidlayout_weight2"Õ2*Ÿ
+œTextView"V
+'http://schemas.android.com/apk/res-autolayout_constraintTop_toTopOfparent"ŸA"O
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"ŸA"P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"ŸA"Z
+'http://schemas.android.com/apk/res-auto layout_constraintStart_toStartOfparent"ŸA"T
+*http://schemas.android.com/apk/res/android
+fontFamily@font/worksans_bold"ŸA"L
+*http://schemas.android.com/apk/res/androidtextSize@dimen/_13sdp"ŸA"P
+*http://schemas.android.com/apk/res/android	textColor@color/textcolor"ŸA"\
+'http://schemas.android.com/apk/res-auto"layout_constraintBottom_toBottomOfparent"ŸA"E
+*http://schemas.android.com/apk/res/androidlayout_weight1"ŸA"Q
+*http://schemas.android.com/apk/res/androidtext@string/review_product"ŸAŸA*‰
+⁄TextView"V
+'http://schemas.android.com/apk/res-autolayout_constraintTop_toTopOfparent"ÁA"O
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"ÁA"P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"ÁA"T
+*http://schemas.android.com/apk/res/android
+fontFamily@font/worksans_bold"ÁA"L
+*http://schemas.android.com/apk/res/androidtextSize@dimen/_13sdp"ÁA"O
+*http://schemas.android.com/apk/res/android	textColor@color/appcolor"ÁA"V
+'http://schemas.android.com/apk/res-autolayout_constraintEnd_toEndOfparent"ÁA"\
+'http://schemas.android.com/apk/res-auto"layout_constraintBottom_toBottomOfparent"ÁA"E
+*http://schemas.android.com/apk/res/androidlayout_weight1"ÁA"J
+*http://schemas.android.com/apk/res/androidid@+id/txt_see_more"ÁA"H
+*http://schemas.android.com/apk/res/androidlayout_gravityend"ÁA"K
+*http://schemas.android.com/apk/res/androidtext@string/see_more"ÁAÁAÕ2*í
+à)androidx.recyclerview.widget.RecyclerView"T
+*http://schemas.android.com/apk/res/androidlayout_marginEnd@dimen/_12sdp"Ò7"O
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"Ò7"L
+*http://schemas.android.com/apk/res/androidorientation
+horizontal"Ò7"P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"Ò7"V
+*http://schemas.android.com/apk/res/androidlayout_marginStart@dimen/_12sdp"Ò7"q
+'http://schemas.android.com/apk/res-autolayoutManager0androidx.recyclerview.widget.LinearLayoutManager"Ò7"I
+*http://schemas.android.com/apk/res/androidid@+id/rcv_comment"Ò7Ò7*ß	
+ù	TextView"T
+*http://schemas.android.com/apk/res/androidlayout_marginEnd@dimen/_12sdp"Å4"O
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"Å4"P
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"Å4"L
+*http://schemas.android.com/apk/res/androidtextSize@dimen/_13sdp"Å4"L
+*http://schemas.android.com/apk/res/android	textColor@color/white"Å4"T
+*http://schemas.android.com/apk/res/androidlayout_marginTop@dimen/_16sdp"Å4"V
+*http://schemas.android.com/apk/res/androidlayout_marginStart@dimen/_12sdp"Å4"W
+*http://schemas.android.com/apk/res/androidlayout_marginBottom@dimen/_24sdp"Å4"]
+*http://schemas.android.com/apk/res/android
+background@drawable/bg_btn_account_end"Å4"J
+*http://schemas.android.com/apk/res/androidtextAlignmentcenter"Å4"S
+*http://schemas.android.com/apk/res/androidpaddingVertical@dimen/_10sdp"Å4"Y
+*http://schemas.android.com/apk/res/android
+fontFamily@font/worksans_semi_bold"Å4"J
+*http://schemas.android.com/apk/res/androidid@+id/btn_add_card"Å4"N
+*http://schemas.android.com/apk/res/androidtext@string/add_to_cart"Å4Å44,/F'

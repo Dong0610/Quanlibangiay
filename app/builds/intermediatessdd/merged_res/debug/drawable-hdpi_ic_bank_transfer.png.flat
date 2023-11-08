@@ -1,0 +1,15 @@
+{
+    "logs": [
+        {
+            "outputFile": "btl.n01.quanlibangiay.app-mergeDebugResources-35:/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/home/dongdong/.gradle/caches/transforms-3/531c448d23437723c2186c45a64c8de1/transformed/core-1.9.0/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+            
